@@ -3,5 +3,20 @@
 		"unexploredTileColor": {"r":1,"g":1,"b":1,"a":1}, //White
 		"fallbackTileSet": "FantasyHex", //For get supply from FantasyHex
 	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1}, //Black
-    //"ruleVariants": {}
+    "ruleVariants": {
+    //desert
+	    "Desert+Hill": ["Desert + Hill"]
+    
+    //Grassland
+	    "Grassland+Hill": ["Grassland + Hill"]
+    //Plains
+	"Plains+Hill": ["Plains + Hill"]
+    //Tundra
+	"Tundra+Hill": ["Tundra + Hill"]
+	"Tundra+Forest": ["Tundra + Forest"]
+    //Snow
+	"Snow+Hill": ["Snow + Hill"]
+	
+    
+    }
 }
