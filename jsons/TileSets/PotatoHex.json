@@ -13,6 +13,7 @@
     //Plains
 	//"Plains+Hill": ["Plains + Hill"]
     //Tundra
+	    "Tundra+Forest": ["Tundra","TundraForest"],
 	//"Tundra+Hill": ["Tundra + Hill"]
 	//"Tundra+Forest": ["Tundra + Forest"]
     //Snow
