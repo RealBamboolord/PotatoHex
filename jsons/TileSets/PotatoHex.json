@@ -6,12 +6,12 @@
     "ruleVariants": {
    	"Hill": ["Grassland","Hill"],
     //desert
-	   // "Desert+Hill": ["Desert + Hill"]
+	    "Desert+Hill": ["Desert","DesertHill"]
     
     //Grassland
-	    //"Grassland+Hill": ["Grassland + Hill"]
+	    "Grassland+Hill": ["Grassland","GrasslandHill"]
     //Plains
-	//"Plains+Hill": ["Plains + Hill"]
+	"Plains+Hill": ["Plains","PlainsHill"]
     //Tundra
 	    "Tundra+Forest": ["Tundra","TundraForest"],
 	    "Tundra+Hill": ["Tundra","TundraHill"],
@@ -19,7 +19,7 @@
 	//"Tundra+Hill": ["Tundra + Hill"]
 	//"Tundra+Forest": ["Tundra + Forest"]
     //Snow
-	//"Snow+Hill": ["Snow + Hill"]
+	"Snow+Hill": ["Snow","SnowHill"]
 	
     
     }
