@@ -7,7 +7,7 @@
    	"Hill": ["Grassland","Hill"],
     //desert
 	    "Desert+Hill": ["Desert","DesertHill"]
-    
+    		"Flood plains": ["Desert","Floodplains"]
     //Grassland
 	    "Grassland+Hill": ["Grassland","GrasslandHill"]
     //Plains
